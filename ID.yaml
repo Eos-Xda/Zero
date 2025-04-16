@@ -1,0 +1,261 @@
+proxies:
+- name: ID - Rumahweb [quiz.int.vidio.com] 1-[TROJAN-TLS]
+  server: quiz.int.vidio.com
+  port: 443
+  type: trojan
+  password: 89c5e3a9-ac69-4185-b814-814bfbbe790c
+  udp: false
+  skip-cert-verify: true
+  network: ws
+  sni: quiz.int.vidio.com.inconigto-mode.web.id
+  ws-opts:
+    path: /Inconigto-Mode/203.194.112.119-2053
+    headers:
+      Host: quiz.int.vidio.com.inconigto-mode.web.id
+- name: ID - Rumahweb [quiz.int.vidio.com] 2-[TROJAN-TLS]
+  server: quiz.int.vidio.com
+  port: 443
+  type: trojan
+  password: 89c5e3a9-ac69-4185-b814-814bfbbe790c
+  udp: false
+  skip-cert-verify: true
+  network: ws
+  sni: quiz.int.vidio.com.inconigto-mode.web.id
+  ws-opts:
+    path: /Inconigto-Mode/203.194.112.119-8443
+    headers:
+      Host: quiz.int.vidio.com.inconigto-mode.web.id
+- name: ID - Alibaba [quiz.int.vidio.com] 3-[TROJAN-TLS]
+  server: quiz.int.vidio.com
+  port: 443
+  type: trojan
+  password: 89c5e3a9-ac69-4185-b814-814bfbbe790c
+  udp: false
+  skip-cert-verify: true
+  network: ws
+  sni: quiz.int.vidio.com.inconigto-mode.web.id
+  ws-opts:
+    path: /Inconigto-Mode/8.215.196.18-587
+    headers:
+      Host: quiz.int.vidio.com.inconigto-mode.web.id
+- name: ID - PT Telkom Indonesia [quiz.int.vidio.com] 4-[TROJAN-TLS]
+  server: quiz.int.vidio.com
+  port: 443
+  type: trojan
+  password: 89c5e3a9-ac69-4185-b814-814bfbbe790c
+  udp: false
+  skip-cert-verify: true
+  network: ws
+  sni: quiz.int.vidio.com.inconigto-mode.web.id
+  ws-opts:
+    path: /Inconigto-Mode/36.95.152.58-12137
+    headers:
+      Host: quiz.int.vidio.com.inconigto-mode.web.id
+- name: ID - Amazon [quiz.int.vidio.com] 5-[TROJAN-TLS]
+  server: quiz.int.vidio.com
+  port: 443
+  type: trojan
+  password: 89c5e3a9-ac69-4185-b814-814bfbbe790c
+  udp: false
+  skip-cert-verify: true
+  network: ws
+  sni: quiz.int.vidio.com.inconigto-mode.web.id
+  ws-opts:
+    path: /Inconigto-Mode/43.218.77.16-443
+    headers:
+      Host: quiz.int.vidio.com.inconigto-mode.web.id
+- name: ID - Amazon [quiz.int.vidio.com] 6-[TROJAN-TLS]
+  server: quiz.int.vidio.com
+  port: 443
+  type: trojan
+  password: 89c5e3a9-ac69-4185-b814-814bfbbe790c
+  udp: false
+  skip-cert-verify: true
+  network: ws
+  sni: quiz.int.vidio.com.inconigto-mode.web.id
+  ws-opts:
+    path: /Inconigto-Mode/43.218.77.16-1443
+    headers:
+      Host: quiz.int.vidio.com.inconigto-mode.web.id
+- name: ID - Akamai Connected Cloud [quiz.int.vidio.com] 7-[TROJAN-TLS]
+  server: quiz.int.vidio.com
+  port: 443
+  type: trojan
+  password: 89c5e3a9-ac69-4185-b814-814bfbbe790c
+  udp: false
+  skip-cert-verify: true
+  network: ws
+  sni: quiz.int.vidio.com.inconigto-mode.web.id
+  ws-opts:
+    path: /Inconigto-Mode/172.232.239.151-587
+    headers:
+      Host: quiz.int.vidio.com.inconigto-mode.web.id
+- name: ID - Amazoncom [quiz.int.vidio.com] 8-[TROJAN-TLS]
+  server: quiz.int.vidio.com
+  port: 443
+  type: trojan
+  password: 89c5e3a9-ac69-4185-b814-814bfbbe790c
+  udp: false
+  skip-cert-verify: true
+  network: ws
+  sni: quiz.int.vidio.com.inconigto-mode.web.id
+  ws-opts:
+    path: /Inconigto-Mode/43.218.77.16-1443
+    headers:
+      Host: quiz.int.vidio.com.inconigto-mode.web.id
+- name: ID - Amazoncom [quiz.int.vidio.com] 9-[TROJAN-TLS]
+  server: quiz.int.vidio.com
+  port: 443
+  type: trojan
+  password: 89c5e3a9-ac69-4185-b814-814bfbbe790c
+  udp: false
+  skip-cert-verify: true
+  network: ws
+  sni: quiz.int.vidio.com.inconigto-mode.web.id
+  ws-opts:
+    path: /Inconigto-Mode/43.218.77.16-443
+    headers:
+      Host: quiz.int.vidio.com.inconigto-mode.web.id
+- name: ID - Akamai Connected Cloud [quiz.int.vidio.com] 10-[TROJAN-TLS]
+  server: quiz.int.vidio.com
+  port: 443
+  type: trojan
+  password: 89c5e3a9-ac69-4185-b814-814bfbbe790c
+  udp: false
+  skip-cert-verify: true
+  network: ws
+  sni: quiz.int.vidio.com.inconigto-mode.web.id
+  ws-opts:
+    path: /Inconigto-Mode/172.232.237.112-2053
+    headers:
+      Host: quiz.int.vidio.com.inconigto-mode.web.id
+- name: ID - Akamai Connected Cloud [quiz.int.vidio.com] 11-[TROJAN-TLS]
+  server: quiz.int.vidio.com
+  port: 443
+  type: trojan
+  password: 89c5e3a9-ac69-4185-b814-814bfbbe790c
+  udp: false
+  skip-cert-verify: true
+  network: ws
+  sni: quiz.int.vidio.com.inconigto-mode.web.id
+  ws-opts:
+    path: /Inconigto-Mode/172.232.239.134-443
+    headers:
+      Host: quiz.int.vidio.com.inconigto-mode.web.id
+- name: ID - Akamai Connected Cloud [quiz.int.vidio.com] 12-[TROJAN-TLS]
+  server: quiz.int.vidio.com
+  port: 443
+  type: trojan
+  password: 89c5e3a9-ac69-4185-b814-814bfbbe790c
+  udp: false
+  skip-cert-verify: true
+  network: ws
+  sni: quiz.int.vidio.com.inconigto-mode.web.id
+  ws-opts:
+    path: /Inconigto-Mode/172.235.251.7-587
+    headers:
+      Host: quiz.int.vidio.com.inconigto-mode.web.id
+- name: SG - Oracle Cloud [quiz.int.vidio.com] 13-[TROJAN-TLS]
+  server: quiz.int.vidio.com
+  port: 443
+  type: trojan
+  password: 89c5e3a9-ac69-4185-b814-814bfbbe790c
+  udp: false
+  skip-cert-verify: true
+  network: ws
+  sni: quiz.int.vidio.com.inconigto-mode.web.id
+  ws-opts:
+    path: /Inconigto-Mode/146.235.18.248-45137
+    headers:
+      Host: quiz.int.vidio.com.inconigto-mode.web.id
+- name: SG - Oracle Cloud [quiz.int.vidio.com] 14-[TROJAN-TLS]
+  server: quiz.int.vidio.com
+  port: 443
+  type: trojan
+  password: 89c5e3a9-ac69-4185-b814-814bfbbe790c
+  udp: false
+  skip-cert-verify: true
+  network: ws
+  sni: quiz.int.vidio.com.inconigto-mode.web.id
+  ws-opts:
+    path: /Inconigto-Mode/213.35.108.135-12596
+    headers:
+      Host: quiz.int.vidio.com.inconigto-mode.web.id
+- name: SG - Oracle Cloud [quiz.int.vidio.com] 15-[TROJAN-TLS]
+  server: quiz.int.vidio.com
+  port: 443
+  type: trojan
+  password: 89c5e3a9-ac69-4185-b814-814bfbbe790c
+  udp: false
+  skip-cert-verify: true
+  network: ws
+  sni: quiz.int.vidio.com.inconigto-mode.web.id
+  ws-opts:
+    path: /Inconigto-Mode/129.150.58.86-57621
+    headers:
+      Host: quiz.int.vidio.com.inconigto-mode.web.id
+- name: SG - Oracle Cloud [quiz.int.vidio.com] 16-[TROJAN-TLS]
+  server: quiz.int.vidio.com
+  port: 443
+  type: trojan
+  password: 89c5e3a9-ac69-4185-b814-814bfbbe790c
+  udp: false
+  skip-cert-verify: true
+  network: ws
+  sni: quiz.int.vidio.com.inconigto-mode.web.id
+  ws-opts:
+    path: /Inconigto-Mode/138.2.89.238-43254
+    headers:
+      Host: quiz.int.vidio.com.inconigto-mode.web.id
+- name: SG - Alibaba [quiz.int.vidio.com] 17-[TROJAN-TLS]
+  server: quiz.int.vidio.com
+  port: 443
+  type: trojan
+  password: 89c5e3a9-ac69-4185-b814-814bfbbe790c
+  udp: false
+  skip-cert-verify: true
+  network: ws
+  sni: quiz.int.vidio.com.inconigto-mode.web.id
+  ws-opts:
+    path: /Inconigto-Mode/47.245.95.160-1443
+    headers:
+      Host: quiz.int.vidio.com.inconigto-mode.web.id
+- name: SG - Akamai Connected Cloud [quiz.int.vidio.com] 18-[TROJAN-TLS]
+  server: quiz.int.vidio.com
+  port: 443
+  type: trojan
+  password: 89c5e3a9-ac69-4185-b814-814bfbbe790c
+  udp: false
+  skip-cert-verify: true
+  network: ws
+  sni: quiz.int.vidio.com.inconigto-mode.web.id
+  ws-opts:
+    path: /Inconigto-Mode/139.162.33.248-587
+    headers:
+      Host: quiz.int.vidio.com.inconigto-mode.web.id
+- name: SG - Alibaba [quiz.int.vidio.com] 19-[TROJAN-TLS]
+  server: quiz.int.vidio.com
+  port: 443
+  type: trojan
+  password: 89c5e3a9-ac69-4185-b814-814bfbbe790c
+  udp: false
+  skip-cert-verify: true
+  network: ws
+  sni: quiz.int.vidio.com.inconigto-mode.web.id
+  ws-opts:
+    path: /Inconigto-Mode/47.236.246.163-14108
+    headers:
+      Host: quiz.int.vidio.com.inconigto-mode.web.id
+- name: SG - Oracle Cloud [quiz.int.vidio.com] 20-[TROJAN-TLS]
+  server: quiz.int.vidio.com
+  port: 443
+  type: trojan
+  password: 89c5e3a9-ac69-4185-b814-814bfbbe790c
+  udp: false
+  skip-cert-verify: true
+  network: ws
+  sni: quiz.int.vidio.com.inconigto-mode.web.id
+  ws-opts:
+    path: /Inconigto-Mode/168.138.166.213-10500
+    headers:
+      Host: quiz.int.vidio.com.inconigto-mode.web.id
